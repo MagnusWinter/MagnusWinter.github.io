@@ -1,8 +1,8 @@
 ---
 layout: page
-title: test page
-description: Description goes here
+title: Blogging Like a Hacker
 ---
+
 ```HTML
 <body>
   Woop
