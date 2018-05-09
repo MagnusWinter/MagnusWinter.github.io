@@ -1,5 +1,5 @@
-{code:html}
+```HTML
 <body>
   Woop
 </body>
-{code:html}
+***
